@@ -1,0 +1,11 @@
+D:\AI algorithms\Adaline_NN\Adaline_NN\bin\Debug\netcoreapp2.1\Adaline_NN.deps.json
+D:\AI algorithms\Adaline_NN\Adaline_NN\bin\Debug\netcoreapp2.1\Adaline_NN.runtimeconfig.json
+D:\AI algorithms\Adaline_NN\Adaline_NN\bin\Debug\netcoreapp2.1\Adaline_NN.runtimeconfig.dev.json
+D:\AI algorithms\Adaline_NN\Adaline_NN\bin\Debug\netcoreapp2.1\Adaline_NN.dll
+D:\AI algorithms\Adaline_NN\Adaline_NN\bin\Debug\netcoreapp2.1\Adaline_NN.pdb
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.csprojAssemblyReference.cache
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.csproj.CoreCompileInputs.cache
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.AssemblyInfoInputs.cache
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.AssemblyInfo.cs
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.dll
+D:\AI algorithms\Adaline_NN\Adaline_NN\obj\Debug\netcoreapp2.1\Adaline_NN.pdb
