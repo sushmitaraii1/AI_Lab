@@ -1,0 +1,11 @@
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\bin\Debug\netcoreapp2.1\Backpopagation.deps.json
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\bin\Debug\netcoreapp2.1\Backpopagation.runtimeconfig.json
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\bin\Debug\netcoreapp2.1\Backpopagation.runtimeconfig.dev.json
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\bin\Debug\netcoreapp2.1\Backpopagation.dll
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\bin\Debug\netcoreapp2.1\Backpopagation.pdb
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.csprojAssemblyReference.cache
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.csproj.CoreCompileInputs.cache
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.AssemblyInfoInputs.cache
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.AssemblyInfo.cs
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.dll
+D:\AI algorithms\Back Propagation\Backpopagation\Backpopagation\obj\Debug\netcoreapp2.1\Backpopagation.pdb
