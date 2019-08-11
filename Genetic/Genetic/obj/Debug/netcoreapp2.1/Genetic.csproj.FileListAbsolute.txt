@@ -1,0 +1,11 @@
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.csprojAssemblyReference.cache
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.csproj.CoreCompileInputs.cache
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.AssemblyInfoInputs.cache
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.AssemblyInfo.cs
+D:\AI algorithms\perceptron\Genetic\Genetic\bin\Debug\netcoreapp2.1\Genetic.deps.json
+D:\AI algorithms\perceptron\Genetic\Genetic\bin\Debug\netcoreapp2.1\Genetic.runtimeconfig.json
+D:\AI algorithms\perceptron\Genetic\Genetic\bin\Debug\netcoreapp2.1\Genetic.runtimeconfig.dev.json
+D:\AI algorithms\perceptron\Genetic\Genetic\bin\Debug\netcoreapp2.1\Genetic.dll
+D:\AI algorithms\perceptron\Genetic\Genetic\bin\Debug\netcoreapp2.1\Genetic.pdb
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.dll
+D:\AI algorithms\perceptron\Genetic\Genetic\obj\Debug\netcoreapp2.1\Genetic.pdb
