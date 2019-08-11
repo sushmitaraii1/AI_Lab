@@ -1,0 +1,10 @@
+D:\AI algorithms\perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.deps.json
+D:\AI algorithms\perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.runtimeconfig.json
+D:\AI algorithms\perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.runtimeconfig.dev.json
+D:\AI algorithms\perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.dll
+D:\AI algorithms\perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp2.1\Perceptron.pdb
+D:\AI algorithms\perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.csproj.CoreCompileInputs.cache
+D:\AI algorithms\perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.AssemblyInfoInputs.cache
+D:\AI algorithms\perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.AssemblyInfo.cs
+D:\AI algorithms\perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.dll
+D:\AI algorithms\perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp2.1\Perceptron.pdb
